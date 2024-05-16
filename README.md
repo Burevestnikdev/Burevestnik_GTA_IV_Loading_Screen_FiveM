@@ -1,4 +1,4 @@
-<div><img src='[https://forum.cfx.re/uploads/default/original/5X/1/d/3/d/1d3ddc3f49ba1bf8cd6957664b74f84154a0d7f3.jpeg](https://forum.cfx.re/uploads/default/original/4X/9/1/0/910217f9219153d871ad5105d54ab25f4d806299.jpeg)'/> 
+<div><img src='https://forum.cfx.re/uploads/default/original/4X/9/1/0/910217f9219153d871ad5105d54ab25f4d806299.jpeg'/> 
 
 ## MY CONTACTS
 

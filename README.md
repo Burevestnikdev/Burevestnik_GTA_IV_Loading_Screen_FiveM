@@ -12,18 +12,15 @@
 
 I welcome you CFX community!
 
-Today I present you a lockpicking system compatible with various platforms (ESX, QBCore, Standalone). With extensive configuration file editing capabilities and a unique design, this system promises a user-friendly interface, easy setup and efficient functionality. Perfect for improving the gameplay!
+Today I present to you the loading screen from GTA IV, which repeats the original loading screen from which you and your players will be delighted!
 
 ## How to use:
 
 Example:
-
-<table><tr><td>
-<br>RegisterCommand('minigame', function()
-    <br>local status = exports.Burevestnik_lockpick_minigame:Burevestnik_lockpick_minigame_start()
-    <br>print(status)
-<br>end)
-</td></tr></table>
+* Unzip the archive to the resources folder.
+* Move the folder with the Loading Screen to the folder where you have the rest of the FiveM server resources.
+* Write the line (unsure Burevestnik_fivem_Loading_Screen_GTA_IV) to your server.cfg
+* Enjoy the new loading screen!
 
 ## Optimization (The script consumes):
 
@@ -34,7 +31,5 @@ Example:
 ## What does this system include:
 
 * This system works on all versions of ESX, QBCore, as well as STANDALONE!
-* Beautiful user interface!
-* Easy to use via export!
-* The ability to integrate with any system!
+* You can customize the text, background, music, characters, animation, and number of appearances!
 * You can completely change the user interface at will!

@@ -14,6 +14,8 @@ I welcome you CFX community!
 
 Today I present to you the loading screen from GTA IV, which repeats the original loading screen from which you and your players will be delighted!
 
+## :movie_camera: Preview Video: [click](https://youtu.be/nmNIUnpeW7w)
+ 
 ## How to use:
 
 Example:
